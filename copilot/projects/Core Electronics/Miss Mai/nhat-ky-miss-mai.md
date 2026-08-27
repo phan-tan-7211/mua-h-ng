@@ -16,6 +16,43 @@ tags:
 
 ---
 
+## Mượn máy hàn (03/02/2026)
+
+- **Ngày yêu cầu**: 03/02/2026
+- **Thời gian Zalo**: 17:08
+- **Nội dung**: Miss Mai hỏi "Có cái máy hàn nào ko" và "Cho mượn nha".
+- **Đã giao máy hàn / loại máy / ngày trả**: Chưa xác định từ đoạn chat hiện có.
+- **Chi phí / thanh toán**: Không thấy đề cập trong đoạn chat — đang truy ngược Zalo.
+- **Bằng chứng**: Log Zalo ngày 03/02/2026 do Tân cung cấp.
+
+---
+
+## Ván phục vụ chạy hàng + lò sấy (08–09/02/2026)
+
+- **Ngày trao đổi**: 08/02/2026 đến 09/02/2026
+- **08/02 10:51**: Tân nhắn "mai công ty thanh toán rồi họ sẽ cắt ván nha".
+- **08/02 10:52**: Miss Mai phản hồi đang chạy hàng, không có ván sẽ rất khó; Tân ghi **30 bộ**. Miss Mai hỏi hôm sau có ván sớm không vì cần có ván để đẩy hàng kịp.
+- **08/02 16:23**: Miss Mai gửi 1 hình ảnh — nội dung ảnh chưa được lưu/đối chiếu trong repo.
+- **08/02 20:24**: Tân nhắn "Mai sấy tạm chỗ khác" và "Lò mai sẽ tháo". Miss Mai phản hồi "Toang" và yêu cầu "Báo lên nhóm yk".
+- **09/02 09:31**: Tân nhắn "SÀI KÉ TẠM ĐI NHA" và "ĐẶT MUA CHƯA CÓ LIỀN DC".
+- **Kết luận tạm thời**: Có tình trạng thiếu **ván** phục vụ chạy hàng; có trao đổi số lượng **30 bộ** và việc công ty thanh toán trước khi bên cung cấp cắt ván. Đồng thời lò có kế hoạch tháo nên phải sấy tạm chỗ khác. Ngày 09/02 vẫn có vật tư/đồ cần đặt mua nhưng chưa có ngay.
+- **Ván đã nhận / ngày nhận / giá / NCC / thanh toán**: Chưa xác định đầy đủ — cần truy tiếp Zalo/chứng từ.
+- **Thiết bị/vật tư trong câu "sài ké tạm"**: Chưa xác định chắc chắn là gì, không tự gán.
+- **Bằng chứng**: Log Zalo ngày 08–09/02/2026 do Tân cung cấp.
+
+---
+
+## Nồi chì 155T hư (26/02/2026)
+
+- **Ngày báo**: 26/02/2026
+- **Thời gian Zalo**: 13:51–13:52
+- **Trao đổi**: Tân hỏi "gi z"; Miss Mai trả lời "Nồi chì 155t hư rồi sửa dùm nha".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Nguyên nhân / vật tư / chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Log Zalo ngày 26/02/2026 do Tân cung cấp.
+
+---
+
 ## Máy 155T — yêu cầu mua bạc đạn, 2 máy hư cùng lúc (18/04/2026)
 
 - **Ngày yêu cầu**: 18/04/2026
