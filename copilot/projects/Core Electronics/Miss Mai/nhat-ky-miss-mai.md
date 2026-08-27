@@ -16,6 +16,21 @@ tags:
 
 ---
 
+## Line 155T — băng chuyền tự chạy quá nhanh (01/06/2026)
+
+- **Ngày báo**: 01/06/2026
+- **Thời gian trên Zalo**: 17:24
+- **Người báo**: Miss Mai
+- **Nội dung**: Miss Mai nhắn "Ra line 155t dùm liền yk" và "Băng chuyền tự chạy quá trời".
+- **Mức độ**: Gấp — yêu cầu ra line ngay.
+- **Xử lý**: ✅ Đã xử lý xong.
+- **Chi phí / vật tư**: Chưa xác định từ bằng chứng hiện có.
+- **Phiếu yêu cầu / chứng từ**: Chưa xác định — đang truy ngược Zalo.
+- **Thanh toán / công nợ**: Chưa xác định.
+- **Bằng chứng**: Ảnh Zalo ngày 01/06/2026 do Tân cung cấp khi truy ngược lịch sử; ảnh này hiện chưa được lưu thành file riêng trong repo.
+
+---
+
 ## Đồ bấm lỗ tube C21 (09/06/2026)
 
 - **Ngày yêu cầu**: 09/06/2026
