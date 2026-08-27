@@ -16,6 +16,108 @@ tags:
 
 ---
 
+## Bánh xe đẩy — yêu cầu đóng lại (06/05/2026)
+
+- **Ngày yêu cầu**: 06/05/2026
+- **Thời gian Zalo**: 08:08
+- **Nội dung**: Miss Mai nhắn "Rảnh hàn cái bánh xe đẩy đóng lại dùm nhe".
+- **Trao đổi**: Có trao đổi về việc xe đang có dây/bó dây; Miss Mai nói "Lấy ra" và "Giờ có 40 bó dây hà".
+- **Xử lý**: Chưa xác định từ ảnh hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 06/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Chuột máy tính chết (06/05/2026)
+
+- **Ngày báo**: 06/05/2026
+- **Thời gian Zalo**: 09:20
+- **Nội dung**: Miss Mai gửi ảnh chuột máy tính và báo "Chuột chết rồi".
+- **Xử lý / có mua chuột mới hay không**: Chưa xác định.
+- **Chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 06/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Lò sấy lớn — ống hơi phía trên xì (11/05/2026)
+
+- **Ngày báo**: 11/05/2026
+- **Thời gian Zalo**: khoảng 12:30
+- **Nội dung**: Miss Mai báo "Ống hơi phía trên lò sấy lớn xì nữa rồi" và nhờ sửa.
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 11/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy tính — lỗi công thức (11/05/2026)
+
+- **Ngày báo**: 11/05/2026
+- **Thời gian Zalo**: 17:03–17:06
+- **Nội dung**: Miss Mai nhờ chỉnh máy tính vì "Ko nhảy công thức nữa rồi".
+- **Trao đổi**: Tân phản hồi lỗi có khả năng do nhập/chỉnh sai công thức và dặn không lấy dữ liệu đi trừ để chỉnh vì sẽ làm lỗi.
+- **Xử lý**: Có hướng dẫn xử lý qua Zalo; chưa xác định có phải ra sửa trực tiếp hay không.
+- **Chi phí / thanh toán**: Chưa xác định.
+- **Bằng chứng**: Ảnh Zalo ngày 11/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy cắt bằng hơi (14/05/2026)
+
+- **Ngày yêu cầu**: 14/05/2026
+- **Nội dung**: Miss Mai nhắn "Sửa dùm máy cắt bằng hơi nha", kèm ảnh thiết bị và nhắn "Hôm nay làm á".
+- **Mức độ**: Cần làm trong ngày theo tin nhắn.
+- **Xử lý**: Chưa xác định kết quả từ ảnh hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 14/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy tính không có mạng (15/05/2026)
+
+- **Ngày báo**: 15/05/2026
+- **Thời gian Zalo**: 07:30
+- **Nội dung**: Miss Mai báo "Máy tính hok có mạng".
+- **Phản hồi**: 07:51 Tân trả lời "có rồi".
+- **Xử lý**: ✅ Theo đoạn chat, mạng đã có lại lúc 07:51.
+- **Chi phí / thanh toán**: Chưa xác định.
+- **Bằng chứng**: Ảnh Zalo ngày 15/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy quấn dây — hơi bị xì (16/05/2026)
+
+- **Ngày báo**: 16/05/2026
+- **Thời gian Zalo**: 09:24
+- **Nội dung**: Miss Mai nhắn "Sửa máy quấn dây dùm nhe" và "Hơi nó bị xì rồi".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 16/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Gắn bóng đèn nồi chì (16/05/2026)
+
+- **Ngày yêu cầu**: 16/05/2026
+- **Thời gian Zalo**: 12:54
+- **Nội dung**: Miss Mai nhắn "Gắn bóng đèn nồi chì" và "Dùm đi".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / bóng đèn / thanh toán**: Chưa xác định — cần truy tiếp xem bóng có sẵn hay Tân mua.
+- **Bằng chứng**: Ảnh Zalo ngày 16/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy quấn dây 140 — yêu cầu sửa (18/05/2026)
+
+- **Ngày yêu cầu**: 18/05/2026
+- **Thời gian Zalo**: 08:31
+- **Nội dung**: Miss Mai nhắn "Ra sửa máy quấn dây 140 dùm nhe" và "Lấy máy khoan luô".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 18/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
 ## Line 155T — băng chuyền tự chạy quá nhanh (01/06/2026)
 
 - **Ngày báo**: 01/06/2026
