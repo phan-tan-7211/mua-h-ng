@@ -16,6 +16,43 @@ tags:
 
 ---
 
+## Máy tính — nhờ chỉnh (29/04/2026)
+
+- **Ngày yêu cầu**: 29/04/2026
+- **Thời gian Zalo**: 08:01
+- **Nội dung**: Miss Mai nhắn "Chút chỉnh máy tính dùm nha".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 29/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Eto của Duy — bị kẹt (04/05/2026)
+
+- **Ngày báo**: 04/05/2026
+- **Thời gian Zalo**: 11:20
+- **Nội dung**: Miss Mai gọi nhỡ rồi nhắn "Ra xem eto của duy dùm nhe" và "Bị kẹt".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 04/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy tính/màn hình chớp liên tục + chuột chết (05/05/2026)
+
+- **Ngày báo**: 05/05/2026
+- **Thời gian Zalo**: 14:26–14:27
+- **Bằng chứng hình ảnh**: Miss Mai gửi video 00:26 và ảnh màn hình máy tính đang hiển thị lỗi/chớp.
+- **Trao đổi**: Tân hỏi "còn chạy ko hay đứng rồi"; Miss Mai trả lời "Nó chớp vậy liên tục".
+- **Phát sinh cùng thời điểm**: 14:27 Miss Mai gửi ảnh chuột và báo "Chuột chết".
+- **Xử lý máy tính/màn hình**: Chưa xác định từ bằng chứng hiện có.
+- **Xử lý chuột / có mua thay hay không**: Chưa xác định.
+- **Chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Lưu ý truy ngược**: Ngày 06/05/2026 lại có mốc "Chuột chết rồi"; hiện giữ **hai mốc riêng 05/05 và 06/05**, chưa gộp cho đến khi xác minh có phải cùng một con chuột/sự cố kéo dài hay hai lần khác nhau.
+- **Bằng chứng**: Ảnh Zalo ngày 05/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
 ## Bánh xe đẩy — yêu cầu đóng lại (06/05/2026)
 
 - **Ngày yêu cầu**: 06/05/2026
@@ -35,6 +72,7 @@ tags:
 - **Nội dung**: Miss Mai gửi ảnh chuột máy tính và báo "Chuột chết rồi".
 - **Xử lý / có mua chuột mới hay không**: Chưa xác định.
 - **Chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Lưu ý**: Có mốc chuột chết từ 05/05/2026; chưa gộp hai mốc cho đến khi truy đủ đoạn chat.
 - **Bằng chứng**: Ảnh Zalo ngày 06/05/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
 
 ---
