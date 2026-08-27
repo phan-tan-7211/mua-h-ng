@@ -16,6 +16,84 @@ tags:
 
 ---
 
+## Máy 155T số 1 — bạc đạn đầu ngắn / đuộc cốt bạc đạn (21/04/2026)
+
+- **Ngày báo/yêu cầu**: 21/04/2026
+- **07:44**: Miss Mai hỏi "HÔM NAY GẮN BẠC ĐẠN DÙM ĐƯỢC KO" và "NAY CHO CHẠY MÁY RỒI".
+- **Trao đổi**: Tân phản hồi bạc đạn đầu ngắn và hỏi mua loại đó ở đâu.
+- **10:15**: Miss Mai báo "Máy 155t số 1 bị đuộc cốt bạc đạn sửa dùm nhe".
+- **Xử lý / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 21/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy 155T số 1 — rơi dây (22/04/2026)
+
+- **Ngày báo**: 22/04/2026
+- **Thời gian Zalo**: khoảng 13:19
+- **Nội dung**: Miss Mai gọi nhỡ rồi nhắn "Sửa máy 155t số 1 dùm bị rơi dây hoài hà".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 22/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy 155T số 4 — lệch vòng (22/04/2026)
+
+- **Ngày báo**: 22/04/2026
+- **Thời gian Zalo**: 16:36–16:37
+- **Nội dung**: Sau cuộc gọi nhỡ, Miss Mai nhắn "Sửa máy 155t số 4 dùm bị lệch vòng".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 22/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy — một năm làm hư nữa (22/04/2026)
+
+- **Ngày báo**: 22/04/2026
+- **Thời gian Zalo**: 19:14–19:15
+- **Nội dung nguyên văn**: Sau cuộc gọi bị từ chối, Miss Mai nhắn "Máy , một năm làm hư nữa rồi sửa giùm nha".
+- **Thiết bị cụ thể**: Chưa xác định rõ từ ảnh hiện có; giữ nguyên câu chat, không tự gán vào máy 155T số 1 hay số 4.
+- **Xử lý / chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 22/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy tính — không có Wi-Fi (23/04/2026)
+
+- **Ngày báo**: 23/04/2026
+- **Thời gian Zalo**: 07:26
+- **Nội dung**: Miss Mai nhắn "Máy tính hok có wifi sửa dùm với nhe".
+- **Xử lý**: Chưa xác định từ bằng chứng hiện có.
+- **Chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 23/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Máy 155T số 1 — rơi dây lần tiếp theo (23/04/2026)
+
+- **Ngày báo**: 23/04/2026
+- **Thời gian Zalo**: 10:04–10:18
+- **Nội dung**: Miss Mai gọi nhỡ và nhắn "Máy 155t số 1 bị rơi dây nữa sửa dùm nhe", sau đó tiếp tục gọi nhỡ lúc 10:18.
+- **Liên hệ lịch sử**: Ngày 22/04 đã có báo máy 155T số 1 "rơi dây hoài"; giữ mốc 23/04 riêng để thể hiện sự cố tái diễn, chưa gộp thành một lần sửa.
+- **Xử lý / chi phí / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo ngày 23/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
+## Lò sấy 155T — kẹt, nguy cơ cháy hàng (24/04/2026)
+
+- **Ngày báo**: 24/04/2026
+- **Thời gian Zalo**: 19:56–20:00
+- **Diễn biến**: Miss Mai gọi; Tân không nhận cuộc gọi. Miss Mai báo "Lò sấy 155t kẹt cháy hàng", "Bị từ sáng giờ", "Sửa dùm đi để cháy hết mâm hàng rồi", "Kẹt" và tiếp tục nhờ ra sửa.
+- **Mức độ**: Gấp — thiết bị bị kẹt từ sáng và có nguy cơ/lúc báo đã làm cháy hàng.
+- **Xử lý**: Chưa xác định kết quả từ bằng chứng hiện có.
+- **Thiệt hại hàng / chi phí / vật tư / thanh toán**: Chưa xác định — cần truy tiếp Zalo/chứng từ nếu có.
+- **Bằng chứng**: Ảnh Zalo ngày 24/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
 ## Máy tính — nhờ chỉnh (29/04/2026)
 
 - **Ngày yêu cầu**: 29/04/2026
