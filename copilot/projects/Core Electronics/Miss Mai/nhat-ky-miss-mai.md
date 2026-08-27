@@ -16,14 +16,31 @@ tags:
 
 ---
 
+## Máy 155T — yêu cầu mua bạc đạn, 2 máy hư cùng lúc (18/04/2026)
+
+- **Ngày yêu cầu**: 18/04/2026
+- **08:11**: Miss Mai nhắn "Mua bạc đạn của máy 155t nha" và xác định là **máy của chị Thi**.
+- **08:17**: Tân hỏi "Biết bạc nào mà mua".
+- **08:18**: Miss Mai gửi **2 ảnh vị trí bạc đạn trên máy 155T**, có đánh dấu vị trí cần thay.
+- **08:38**: Tân nhắn "Nói nt đi nhá máy chi" sau nhiều cuộc gọi.
+- **08:39**: Miss Mai báo **"2 MÁY 155T HƯ 1 LƯỢT LUÔN R"** và "SỬA DÙM ĐI".
+- **Kết luận tạm thời**: Ngày 18/04 đã có yêu cầu **mua bạc đạn cho ít nhất một máy 155T (máy chị Thi)**, đồng thời Miss Mai báo **2 máy 155T hư cùng lúc**.
+- **Đã mua bạc đạn chưa**: Chưa xác định từ bằng chứng hiện có.
+- **Giá bạc đạn / NCC / phiếu yêu cầu / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Liên hệ lịch sử**: Ngày 21/04 Miss Mai tiếp tục hỏi gắn bạc đạn để cho máy chạy, cho thấy vấn đề bạc đạn **chưa được giải quyết dứt điểm hoặc vẫn còn phát sinh** sau mốc 18/04. Chưa khẳng định máy chị Thi ngày 18/04 chính là máy 155T số 1 ngày 21/04.
+- **Bằng chứng**: Ảnh Zalo + log chat ngày 18/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+
+---
+
 ## Máy 155T số 1 — bạc đạn đầu ngắn / đuộc cốt bạc đạn (21/04/2026)
 
 - **Ngày báo/yêu cầu**: 21/04/2026
-- **07:44**: Miss Mai hỏi "HÔM NAY GẮN BẠC ĐẠN DÙM ĐƯỢC KO" và "NAY CHO CHẠY MÁY RỒI".
-- **Trao đổi**: Tân phản hồi bạc đạn đầu ngắn và hỏi mua loại đó ở đâu.
-- **10:15**: Miss Mai báo "Máy 155t số 1 bị đuộc cốt bạc đạn sửa dùm nhe".
-- **Xử lý / vật tư / thanh toán**: Chưa xác định — đang truy ngược Zalo.
-- **Bằng chứng**: Ảnh Zalo ngày 21/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
+- **07:44**: Miss Mai hỏi "HÔM NAY GẮN BẠC ĐẠN DÙM ĐƯỢC KO" và "NAY CHO CHẠY ,MÁY RỒI".
+- **Trao đổi**: Tân phản hồi trước đó đã nói một kiểu nhưng hôm nay lại là **bạc đạn đầu ngắn**, đồng thời hỏi "mua cái đó ở đâu có đâu" — cho thấy tại thời điểm 07:44 **chưa có sẵn đúng loại bạc đạn cần dùng**.
+- **10:15**: Miss Mai báo "Máy 155t số 1 bị duộc cốt bạc đạn sửa dùm nhe".
+- **Liên hệ mốc 18/04**: Ba ngày trước đã có yêu cầu mua bạc đạn máy 155T và báo 2 máy hư cùng lúc. Chưa đủ bằng chứng để khẳng định đây là cùng một máy/vị trí bạc đạn, nên giữ riêng nhưng liên kết hai mốc.
+- **Xử lý / đã mua bạc đạn / giá / NCC / thanh toán**: Chưa xác định — đang truy ngược Zalo.
+- **Bằng chứng**: Ảnh Zalo + log chat ngày 21/04/2026 do Tân cung cấp; chưa lưu thành file riêng trong repo.
 
 ---
 
