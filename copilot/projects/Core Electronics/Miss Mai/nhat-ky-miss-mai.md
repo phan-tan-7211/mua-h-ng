@@ -24,6 +24,21 @@ tags:
 
 ---
 
+## Máy mài khuôn — bàn giao lần ghi nhận 09/06/2026
+
+- **Ngày bàn giao/ghi nhận**: 09/06/2026
+- **10:45**: Có ảnh Zalo chụp bộ máy mài khuôn đã được gửi trong cuộc trò chuyện.
+- **13:20**: Miss Mai hỏi: "Ko có mũi mài hả".
+- **Kết luận tạm thời**: Có bằng chứng cho thấy **máy/bộ mài đã được bàn giao hoặc có mặt ngày 09/06/2026**; phần **mũi mài chưa có/chưa bàn giao** tại thời điểm Miss Mai hỏi.
+- **Giá vốn**: Chưa xác định.
+- **Giá báo công ty**: Chưa xác định.
+- **Phiếu yêu cầu / chứng từ**: Chưa tìm thấy — đang truy ngược Zalo.
+- **Thanh toán / công nợ**: Chưa kết luận — chờ tìm thêm bằng chứng.
+- **Bằng chứng**: Ảnh Zalo ngày 09/06/2026 do Tân cung cấp khi truy ngược lịch sử; ảnh này hiện chưa được lưu thành file riêng trong repo.
+- **Lưu ý**: Đây là **mốc riêng** với sự kiện máy mài khuôn ngày 16/07/2026 bên dưới. Không gộp hai lần cho đến khi truy đủ lịch sử.
+
+---
+
 ## Sửa máy tính (16/06/2026)
 
 - **Ngày yêu cầu**: 16/06/2026
@@ -245,11 +260,12 @@ tags:
 
 ---
 
-## Máy mài khuôn (16/07/2026)
+## Máy mài khuôn — mốc riêng 16/07/2026
 
 - **Ngày**: 16/07/2026
-- **Nội dung**: Bàn giao máy mài khuôn cho Miss Mai
-- **Thanh toán**: ⚠️ Công ty chưa thanh toán cho Tân
+- **Nội dung đang có trong nhật ký**: Bàn giao máy mài khuôn cho Miss Mai.
+- **Thanh toán**: ⚠️ Công ty chưa thanh toán cho Tân.
+- **Trạng thái xác minh**: 🔎 Đang truy ngược Zalo; **không gộp** với mốc máy mài khuôn ngày 09/06/2026. Chờ tìm thêm ảnh/tin nhắn để xác định đây là máy khác, lần bàn giao khác hay một phát sinh tiếp theo.
 
 ---
 
